@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery after some search of the sinnes of the ministers, because of which (as we conceive) the Lord is angry, and hath almost made his ministers and ordinances vile and contemptible. / By the brethren of the presbytery at Kilmarnock.</title>
+            <author>Church of Scotland. Presbytery of Kilmarnock.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02710</idno>
+            <idno type="STC">Wing D1631</idno>
+            <idno type="STC">ESTC R219206</idno>
+            <idno type="EEBO-CITATION">53981640</idno>
+            <idno type="OCLC">ocm 53981640</idno>
+            <idno type="VID">180199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180199)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2820:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery after some search of the sinnes of the ministers, because of which (as we conceive) the Lord is angry, and hath almost made his ministers and ordinances vile and contemptible. / By the brethren of the presbytery at Kilmarnock.</title>
+                  <author>Church of Scotland. Presbytery of Kilmarnock.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler],</publisher>
+                  <pubPlace>[Leith :</pubPlace>
+                  <date>anno Dom. 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Imperfect: cropped with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Clergy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180199:1" rendition="simple:additions"/>
+            <p>A DISCOVERY After ſome ſearch of the SINNES OF THE MINISTERS, Becauſe of which (as we conceive) the Lord is angry, and hath almoſt made his Miniſters and Ordinances vile and contemptible.</p>
+            <p>BY THE BRETHREN OF THE PRESBYTERY Of <hi>KILMARNOCK.</hi>
+            </p>
+            <p>
+               <hi>Printed Anno Dom.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="2" facs="tcp:180199:2"/>
+            <head>A DISCOVERIE After ſome ſearch of the Sins of the MINISTERS,</head>
+            <head type="sub">Becauſe of which (as wee conceive) the Lord is angry, and hath almoſt made his Miniſters and Ordinances vile and contemptible.</head>
+            <div n="1" type="section">
+               <head>I. SECTION.</head>
+               <p n="1">I. <seg rend="decorInit">I</seg>N relation to our calling to the Miniſterie; Entring to the Miniſterie without the knowledge of Gods ſending. 2. Not ſeek<g ref="char:EOLhyphen"/>ing Con<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nations and ſeals of our miſſion in the Conſciences of the People, or in our own further grouth and fitting for the Mniſtery.</p>
+            </div>
+            <div n="2" type="section">
+               <head>II. SECTION.</head>
+               <p n="2">II. In relation to Preaching. 1. Going out with litle pre<g ref="char:EOLhyphen"/>paration, truſting to gifts and parts, and growing lazie in pre<g ref="char:EOLhyphen"/>paring to ſpeak to edification. 2. Where pains is taken for pre<g ref="char:EOLhyphen"/>paration, truſting to it, whereby God is provoked to blaſt good matter well ordered and worded.</p>
+               <p n="3">III. Neglect of Prayer. 1. In ſtudy and preparation, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atter we bring forth, is not ſeriouſly recommended to God, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be quickned to his People. 2. In our Prayers for aſſiſtance, being more ſet upon aſſiſtance to the Meſſenger, nor to the Meſ<g ref="char:EOLhyphen"/>ſage which we carry, not careing what become of the Word, if we be with ſome meaſure of aſſiſtance and liberty carried on
+<pb n="3" facs="tcp:180199:2"/>in the duty. 3. Neglect of Prayer for the fruit and bleſſing of the Word which we have preached, that it may receive the early and latter rain. 4. Neglect of applications to God for the knowledge of his mind in debateable matters.</p>
+               <p n="4">IV. Not meaning and aiming every word we ſpeak to edi<g ref="char:EOLhyphen"/>fication, but bringing forth many things in the Name of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, which are not aimed at profit.</p>
+               <p n="5">V. Speaking raſhly and by gueſſe in the Name of the Lord things that are plauſible; and in many things not bringing from the Lord, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t which we ſpeak; a ſin pointed at by the Lord, in his diſappointing that which ſo many ſpake confidently of the ſucceſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of our Army, againſt thoſe that have invaded us.</p>
+               <p n="6">VI. Too much frequent and unneceſſary ſpeaking of pub<g ref="char:EOLhyphen"/>lick tranſactions in Sermons, neglecting to ſet forth the excel<g ref="char:EOLhyphen"/>lencie of Chriſt, the new Covenant, &amp;c.</p>
+               <p n="7">VII. Preaching againſt publick ſins, neither in ſuch a way, nor for ſuch an end as we ought, for the gaining of ſouls, and drawing Men out of their ſin, but rather becauſe it is of our con<g ref="char:EOLhyphen"/>cernment, to ſay ſomething, and have a by-blow or wipe at them, reproving the evils of the time to pleaſe men.</p>
+               <p n="8">VIII. Want of bowels in preaching toward them who are in hazard to periſh.</p>
+               <p n="9">IX. We preach not as before God, but as to men, as doth appear, by the different pains of our preparation, to ſpeak to our ordinary Hearers, and to others to whom we would approve our ſelves.</p>
+               <p n="10">X. Too much eying our own credit and applauſe, and be<g ref="char:EOLhyphen"/>ing tickled with it when we get it, or unſatisfied when it is wanting.</p>
+               <p n="11">XI. Neglect of endeavours to have our hearts affected with the power, either in preparation, or delivering of the Word which we preach at ordinary and extraordinary occaſi<g ref="char:EOLhyphen"/>ons; but for moſt part preach, as if we our ſelves were not
+<pb n="4" facs="tcp:180199:3"/>concerned in the Meſſage which we carry to the People.</p>
+            </div>
+            <div n="3" type="section">
+               <head>III. SECTION.</head>
+               <p>In relation to the Judicatories of the Church, and their Con<g ref="char:EOLhyphen"/>ſtitutions. 1. Idolizing the Authoritie of Aſſemblies, ſo that no difference from their concluſions have been accompted tol<g ref="char:EOLhyphen"/>lerable, becauſe of which, God hath ſpotted our Aſſemblies.</p>
+               <p n="2">II. Not making Conſcience of keeping and waiting the meetings of Church-Judicatories, but wearying of the ex<g ref="char:EOLhyphen"/>pence and attendance, becauſe of which, divers things therein treated of, have been miſcarried.</p>
+               <p n="3">III. Haſtie concluding of Acts, and preſſing obedience thereunto, without convincing grounds, held forth from the Scriptures, for ſatisfying the Conſciences of the Lords People.</p>
+               <p n="4">IV. Neglect of making application to God, for the knowledg of his mind, in debatable things, before they pas into concluſions</p>
+               <p n="5">V. Wearying to hear men fully, who preſent doubts, and to weigh all the arguments that can be preſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for the ne<g ref="char:EOLhyphen"/>gative, before the affirmative be taken into conſideration.</p>
+               <p n="6">VI. Impatience to wait for clear and deliberate bringing of matters to a concluſion, with paſsionate haſting to carry things by a plurality.</p>
+               <p n="7">VII. Binding the People of GOD, with ſtrait and binding Acts, in things unneceſſary.</p>
+               <p n="8">VIII. Blinde following of leading men in Judicatories, without perſwation of the matter, and oftentimes with a hint and doubting of Conſcience ſmoothered.</p>
+               <p n="9">IX. Want of Faithfulneſs and tenderneſs, both in bringing in, &amp; holding in perſons, in the miniſtery, not trying the reality of the Work of God, in thoſe that enter into the Miniſtery.</p>
+            </div>
+            <div n="4" type="section">
+               <head>IV. SECTION</head>
+               <p>In relation, to the exerciſe of Diſcipline, and drawing forth the Cenſures of the Church. 1. Partiallity in the adminiſtra<g ref="char:EOLhyphen"/>tion of Cenſures, with reſpect of perſons, not uſing the like
+<pb n="5" facs="tcp:180199:3"/>faithfulneſs and zeal towards the high and low.</p>
+               <p n="2">II. Not making uſe of the Ordinances of Diſcipline, for the gaining of Souls, but turning it in a meer civil puniſhment, and in the adminiſtration thereof, becoming either luke warm, or without a ſpirit of meekneſſe.</p>
+               <p n="3">III. Mocking of repentance, by teaching formality therein to offenders, hardening them in their ſins, by accepting bare forms without evidences of repentance, and looſning when we were perſwaded, that Chriſt did not looſe, turning the profeſsion of repentance into a State Engine, to ſtep to em<g ref="char:EOLhyphen"/>ployment and preferment.</p>
+               <p n="4">IV. Want of tendernes in teſtifying of the converſation and repentance of Miniſters and people, giving teſtimonialls to gratifie men, or to ſhift our ſelves and Congregations of infe<g ref="char:EOLhyphen"/>ctious perſons.</p>
+               <p n="5">V. Want of exact carefulneſſe and faithfulneſs in debarring from the Lords Table, the ignorant and ſcandalous.</p>
+               <p n="6">VI. Unequall dealing with the poor and rich, in admitting to, or ſuſpending and debarring from the Lords Table.</p>
+               <p n="7">VII. Want of Bowels and Compaſsion to the parties on whom Diſcipline is exerciſed, and imperious kinde of boaſting of them.</p>
+            </div>
+            <div n="5" type="section">
+               <head>V. SECTION.</head>
+               <p>In relation to our way of performing Miniſteriall duties. 1. Laiſines in going about duties, not improving our time and Talents, to do all the good we might amongſt the people of GOD.</p>
+               <p n="2">II. Want of delight in going about the duties of our calling, doing them not for Chriſts ſake and love to the flock, looking on them as burthens.</p>
+               <p n="3">III. Satisfying our ſelves with publick reproving of publick ſins, and neglecting the gaining-way of private dealing with the Conſciences of ſinners.</p>
+               <pb n="6" facs="tcp:180199:4"/>
+               <p n="4">IV. A groff carnal way of handling the matters of Chriſt.</p>
+               <p n="5">V. Carying on ſome O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dinances, and neglecting others equally warranted, and almoſt being diligent in no duty bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Preaching.</p>
+               <p n="6">VI. Not ſtudying to be acquainted with the condition o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the people, that we may apply our ſelves to the variety o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their eſtates.</p>
+               <p n="7">VII. Turning all duties and Religion into forwardneſs i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Cauſe of GOD, and under cullor of that, neglecting du<g ref="char:EOLhyphen"/>ties and the power and life of Godlineſſe.</p>
+               <p n="8">VIII. Neglect of pains to fit us more for our calling, af<g ref="char:EOLhyphen"/>ter we have acquired a habite of preaching, as if we need not to grow in fitneſs for all the duties of our calling.</p>
+               <p n="9">IX. Partiality in viſiting the ſick; if they be poor, we go once, and when ſent for, if rich; and of better rank, more fre<g ref="char:EOLhyphen"/>quently, and unſent for: And in examination, paſsing by great folks often.</p>
+               <p n="10">X. Performing the duties of Preaching and publick Prayer, as parts of triall, and not as worſhip done to GOD.</p>
+            </div>
+            <div n="6" type="section">
+               <head>VI. SECTION.</head>
+               <p>In relation to our walk and converſation Perſonal faults. 1. Earthly mindedneſſe, careing immoderatly for the things of this life, and following too eagerly the bettering of ſtipends. 2 Want of hoſpitality and charity, to the members of Chriſt. 3. Want of ſobriety in all things ſutable to the Times. 4. Slighting of the beating of the Lords word, hear<g ref="char:EOLhyphen"/>ing the word from others, onely to cenſure and try their gifts, and not as Chriſtians, that ſhould heare and make uſe of it. 6. Envying the gifts and graces of God in others, or diſcou<g ref="char:EOLhyphen"/>ragement in our Duties, becauſe of our ſhort upcomming to others, in whom Gifts, and Graces ſhine; undervaluing and ſlighting the ſincerity of Grace in others; becauſe they be in<g ref="char:EOLhyphen"/>feriour to our ſelves in Gifts. 7. Pride ſhewing it ſelfe in not
+<pb n="7" facs="tcp:180199:4"/>ſtouping, and condeſcending to the Infirm; but diſdaining Chriſts work in them; becauſe of ſome Infirmities that we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an obſerve in them. 8. Not induring admonition or reproofe from Myniſters, or ſuch of the people of God, as obſerve ſomething in us that are contrary to tenderneſſe, and give Of<g ref="char:EOLhyphen"/>fence. 9. Loſs of tenderneſſe and diligence after we are Mini<g ref="char:EOLhyphen"/>ſters, unto which ſome had before attained. 10. Being very little in ſecret Prayer, and converſe with God; and excuſing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his within our ſelves; with being much taken up with other Duties. 11. Neglect of accurat ſtudying of the Scriptures. 12. Vaine Imitation of other men. 13. Neglect of frequent reflecting upon our own ſtate, and walk with God.</p>
+            </div>
+            <div n="7" type="section">
+               <head>VII. SECTION.</head>
+               <p>In our walk in our Families, not being paterns to the flock in holineſſe and diligence, but rather ill examples of lightneſs in our converſation, and ſlighting of duties. 1. By ſuperficiall performing of Worſhip by ſtarts, and not ſetting apart time for the deliberate going about it. 2. Reading of the Scriptures raſhly and inconſiderately, and not as men that ſhould be ac<g ref="char:EOLhyphen"/>quainted with the minde of GOD in all his Word. 3. Neg<g ref="char:EOLhyphen"/>lect of the inſtruction and edification of our Families; ſo that none (more then our own) are worſe looked too. 4. Little or no time ſet apart in our Families to mourn for the guiltineſſe of the Land, and the backſliding of the time. 5. Deep hypo<g ref="char:EOLhyphen"/>criſie in preſsing upon others, to do that in their Families, which is utterly ſlighted by our ſelves.</p>
+            </div>
+            <div n="8" type="section">
+               <head>VIII. SECTION.</head>
+               <p>In our walk among the people of our charge. 1. Unfruit<g ref="char:EOLhyphen"/>fulneſs, not ſtuddying to converſe with the people of GOD for their edification. 2. Carnal familiarity with wicked and natural people, out of the duties of our calling, whereby they are hardened in ſin, by finding the Miniſter like themſelves, however he ſpeak to them in Publick. 3. A ſtraingeneſſe, and
+<pb n="8" facs="tcp:180199:5" rendition="simple:additions"/>upkeeping of our ſelves from ſuch as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> whereby they are made to keep back a profitable freedom with us. 4. Neglect of ſpirituall fellowſhip with the people of GOD, and not putting them to pray with us. 5. Unwillingneſs to entertain ſpirituall purpoſe and diſcourſe; yea many a time ſlighting and ſhufling it out, when its caſt in by others. 6. Speaking our own words on the Sabbath-day, and counte<g ref="char:EOLhyphen"/>nancing the ſame in others. 7. Not daring to reprove ſin, and appear zealous and tender before the wicked.</p>
+            </div>
+            <div n="9" type="section">
+               <head>IX. SECTION.</head>
+               <p>In our walk in the company of Miniſters, very unprofitable, and oftentimes hurtfull one to another, and being an offence to the Lords people. 1. Neglect of prayer, and every thing that may edifie. 2. Shifting of prayer and other duties when we are called to it. 3. Ordinary driving away our time in car<g ref="char:EOLhyphen"/>nall rejoycing and lightneſs, ſporting and jeſting one with an other, and cenſuring, &amp;c. 4. Want of freedom and love to reprove and admoniſh one another in ſerious tenderneſs; and if any freedom be uſed, it is in a jeſt, and an up<g ref="char:EOLhyphen"/>caſt, which draws on alienation, when things obſerved in another doth ſtick with us, and are kept up or told in ſuch a way. 5. Ordinarily we converſe together as Miniſters, but not as Chriſtians; ſpeaking only of things pertaining to our Calling, and of nothing pertaining to our Souls, and their con<g ref="char:EOLhyphen"/>dition. 6. Turning all Chriſtian duties into Miniſteriall duties: We ſpeak of them as things that are with out us, and as if they did not concern our ſelves; In a word, We are not good Miniſters, becauſe we are not good Chriſtians: This is the root of all the corruptions of our calling.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
